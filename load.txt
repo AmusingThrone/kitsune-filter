@@ -2,8 +2,7 @@
 # Author: AmusingThrone         #
 # GitHub: AmusingThrone         #
 # Made for Symfox               #
-# &                             #
-# Astro260                      #
+#                               #
 #################################
                        
 LOADING: Filter Service v 1.00
