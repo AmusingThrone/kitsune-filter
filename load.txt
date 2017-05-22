@@ -1,8 +1,8 @@
 #################################
 # Author: AmusingThrone         #
 # GitHub: AmusingThrone         #
-# Made for Symfox               #
-#                               #
+# Made for PenguinWorld &       #
+# CPWorld                       #
 #################################
                        
-LOADING: Filter Service v 1.00
+LOADING: Filter Service v 1.10
